@@ -1,0 +1,5 @@
+h=int(input("enter the value of hydrogen"))
+c=int(input("enter the value of carbon"))
+o=int(input("enter the value of oxygen"))
+n=float(1.00794*h+12.0107*c+15.9994*o)
+print(n)
